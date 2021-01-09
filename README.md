@@ -10,3 +10,5 @@ JS
 
 ## Website
 https://github.com/WuJoh/JavascriptQuiz
+live deployed website
+https://wujoh.github.io/JavascriptQuiz/
